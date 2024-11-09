@@ -1,0 +1,23 @@
+.medicalrecords {
+    display: flex;
+    flex-direction: row;
+    width: 50rem;
+    height: 22rem;
+    border: 3px solid rgb(0, 0, 0) !important;
+    border-radius: 10px;
+    margin-top: 335px;
+    background: rgb(213, 139, 42)
+}
+
+.medicalrecord {
+    flex: 1;
+    margin: 5px;
+    padding: 20px;
+    border: 3px solid #070606;
+    border-radius: 10px;
+    background: #c79e44;
+    letter-spacing: 0.3rem;
+    font-size: large;
+    align-items: center;
+    justify-content: center;
+}
